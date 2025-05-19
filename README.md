@@ -13,3 +13,8 @@ Este projeto simula uma **esteira transportadora inteligente** com **visão comp
 - OpenCV
 - NumPy
 - DroidCam (opcional – usar celular como webcam)
+---
+##Exemplo
+
+![image](https://github.com/user-attachments/assets/c2905ca3-0a23-4b13-a9f4-50ea983640e8)
+
